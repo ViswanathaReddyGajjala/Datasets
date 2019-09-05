@@ -3,7 +3,14 @@
 # Popular pedestrain detection datasets
   Sharing suitable, most popular and useful datasets for pedestrain detection.
   <ul style="list-style-type:disc;">
+  <li><a href="http://wider-challenge.org/2019.html" target="_blank">WIDER Face and Pedestrian Challenge</a></li>
+  <li><a href="https://www.cityscapes-dataset.com/dataset-overview/" target="_blank">Cityscapes</a></li>
+  <li><a href="http://host.robots.ox.ac.uk/pascal/VOC/" target="_blank">PASCAL VOC</a></li>
+  <li><a href="https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/longtermped/" target="_blank">TUGRAZ ICG Longterm Pedestrian Dataset</a></li>
+  <li><a href="http://personal.ie.cuhk.edu.hk/~ccloy/downloads_mall_dataset.html" target="_blank">Mall Dataset</a></li>
+  <li><a href="http://cs-chan.com/project4.htm" target="_blank">Crowd Dataset</a></li>
   <li><a href="http://pascal.inrialpes.fr/data/human/" target="_blank">INRIA Person Dataset</a></li>
+  <li><a href="http://cs-chan.com/project4.htm" target="_blank">Crowd Dataset</a></li>
   <li><a href="http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/" target="_blank">Caltech Pedestrian Detection Benchmark</a></li>
   <li><a href="http://cbcl.mit.edu/software-datasets/PedestrianData.html" target="_blank">MIT Pedestrian Dataset</a></li>
   <li><a href="http://uj-infomatics.com/" target="_blank">UJ Pedestrian Dataset for human detection</a></li>
