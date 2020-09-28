@@ -37,3 +37,19 @@
   <li><a href="http://vision.cse.psu.edu/data/data.shtml" target="_blank">PSU HUB</a></li>
   <li><a href="http://mmlab.ie.cuhk.edu.hk/projects/PETA.html">PETA dataset</a></li>
   </ul>
+  
+  
+  
+# Face Detection Datasets
+
+<ul style="list-style-type:disc;">
+  <li><a href="https://arxiv.org/pdf/1804.06559.pdf" target="_blank">4K-Face</a></li>
+  <li><a href="http://vis-www.cs.umass.edu/fddb/index.html#download" target="_blank">FDDB - Face Detection Data Set and Benchmark</a></li>
+  <li><a href="https://www.nist.gov/itl/iad/image-group/ijb-dataset-request-form" target="_blank">IJB-A Dataset</a></li>
+  <li><a href="http://www.escience.cn/people/geshiming/mafa.html" target="_blank">MAsked FAces</a></li>
+  <li><a href="http://www.cbsr.ia.ac.cn/faceevaluation/#reference" target="_blank">Multi-Attribute Labelled Faces</a></li>
+  <li><a href="https://github.com/hezhangsprinter/UFDD" target="_blank">Unconstrained Face Detection Dataset </a></li>
+  <li><a href="http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/index.html" target="_blank">Wider Face</a></li>  
+  <li><a href="https://arxiv.org/pdf/1805.07566.pdf" target="_blank">Wildest Faces</a></li>
+</ul> 
+
